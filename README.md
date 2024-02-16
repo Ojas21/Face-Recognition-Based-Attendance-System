@@ -47,6 +47,4 @@ python setup.py build
 
 This project is developed by OJAS THENGADI.
 
-## License
 
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
